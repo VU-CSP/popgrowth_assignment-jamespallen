@@ -1,6 +1,6 @@
 # Cell proliferation and population growth models assignment
 Open the file [PopGrowthLecture_assignment.ipynb](PopGrowthLecture_assignment.ipynb) and follow the instructions within the file.  
-
+#
 
 ##### If you plan to use Colab, open [Google Colab](https://colab.research.google.com) in new tab/window.  
 
